@@ -1,0 +1,1130 @@
+[2m19:16:29[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:302:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:302:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  300 |          roiId = existingRoi.id;
+  301 |          version = existingRoi.version + 1;
+  302 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  303 |        }
+  304 |      }
+  [39m
+[2m19:16:29[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:302:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:302:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  300 |          roiId = existingRoi.id;
+  301 |          version = existingRoi.version + 1;
+  302 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  303 |        }
+  304 |      }
+  [39m
+[2m19:16:29[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:302:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:302:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  300 |          roiId = existingRoi.id;
+  301 |          version = existingRoi.version + 1;
+  302 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  303 |        }
+  304 |      }
+  [39m
+[2m19:16:29[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:302:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:302:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  300 |          roiId = existingRoi.id;
+  301 |          version = existingRoi.version + 1;
+  302 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  303 |        }
+  304 |      }
+  [39m
+[2m19:17:05[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:302:68: ERROR: Cannot use "||" with "??" without parentheses[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:302:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  300 |          roiId = existingRoi.id;
+  301 |          version = existingRoi.version + 1;
+  302 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  303 |        }
+  304 |      }
+  [39m
+      at failureErrorWithLog (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:20:12[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:311:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:311:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  309 |          roiId = existingRoi.id;
+  310 |          version = existingRoi.version + 1;
+  311 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  312 |        }
+  313 |      }
+  [39m
+[2m19:20:12[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:311:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:311:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  309 |          roiId = existingRoi.id;
+  310 |          version = existingRoi.version + 1;
+  311 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  312 |        }
+  313 |      }
+  [39m
+[2m19:20:12[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:311:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:311:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  309 |          roiId = existingRoi.id;
+  310 |          version = existingRoi.version + 1;
+  311 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  312 |        }
+  313 |      }
+  [39m
+[2m19:20:12[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:311:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:311:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  309 |          roiId = existingRoi.id;
+  310 |          version = existingRoi.version + 1;
+  311 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  312 |        }
+  313 |      }
+  [39m
+[2m19:20:12[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:311:68: ERROR: Cannot use "||" with "??" without parentheses[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:311:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  309 |          roiId = existingRoi.id;
+  310 |          version = existingRoi.version + 1;
+  311 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  312 |        }
+  313 |      }
+  [39m
+      at failureErrorWithLog (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:20:44[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:311:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:311:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  309 |          roiId = existingRoi.id;
+  310 |          version = existingRoi.version + 1;
+  311 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  312 |        }
+  313 |      }
+  [39m
+[2m19:20:44[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:311:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:311:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  309 |          roiId = existingRoi.id;
+  310 |          version = existingRoi.version + 1;
+  311 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  312 |        }
+  313 |      }
+  [39m
+[2m19:20:44[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:311:68: ERROR: Cannot use "||" with "??" without parentheses[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:311:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  309 |          roiId = existingRoi.id;
+  310 |          version = existingRoi.version + 1;
+  311 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  312 |        }
+  313 |      }
+  [39m
+      at failureErrorWithLog (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m19:25:25[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:311:68: ERROR: Cannot use "||" with "??" without parentheses[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:311:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  309 |          roiId = existingRoi.id;
+  310 |          version = existingRoi.version + 1;
+  311 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  312 |        }
+  313 |      }
+  [39m
+      at failureErrorWithLog (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m20:00:56[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:315:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:315:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  313 |          roiId = existingRoi.id;
+  314 |          version = existingRoi.version + 1;
+  315 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  316 |        }
+  317 |      }
+  [39m
+[2m20:00:56[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:315:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:315:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  313 |          roiId = existingRoi.id;
+  314 |          version = existingRoi.version + 1;
+  315 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  316 |        }
+  317 |      }
+  [39m
+[2m20:00:56[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:315:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:315:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  313 |          roiId = existingRoi.id;
+  314 |          version = existingRoi.version + 1;
+  315 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  316 |        }
+  317 |      }
+  [39m
+[2m20:00:56[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:315:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:315:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  313 |          roiId = existingRoi.id;
+  314 |          version = existingRoi.version + 1;
+  315 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  316 |        }
+  317 |      }
+  [39m
+[2m20:00:56[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:315:68: ERROR: Cannot use "||" with "??" without parentheses[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:315:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  313 |          roiId = existingRoi.id;
+  314 |          version = existingRoi.version + 1;
+  315 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  316 |        }
+  317 |      }
+  [39m
+      at failureErrorWithLog (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m20:00:59[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:318:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:318:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  316 |          roiId = existingRoi.id;
+  317 |          version = existingRoi.version + 1;
+  318 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  319 |        }
+  320 |      }
+  [39m
+[2m20:00:59[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:318:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:318:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  316 |          roiId = existingRoi.id;
+  317 |          version = existingRoi.version + 1;
+  318 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  319 |        }
+  320 |      }
+  [39m
+[2m20:00:59[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:318:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:318:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  316 |          roiId = existingRoi.id;
+  317 |          version = existingRoi.version + 1;
+  318 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  319 |        }
+  320 |      }
+  [39m
+[2m20:00:59[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:318:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:318:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  316 |          roiId = existingRoi.id;
+  317 |          version = existingRoi.version + 1;
+  318 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  319 |        }
+  320 |      }
+  [39m
+[2m20:00:59[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:318:68: ERROR: Cannot use "||" with "??" without parentheses[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:318:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  316 |          roiId = existingRoi.id;
+  317 |          version = existingRoi.version + 1;
+  318 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  319 |        }
+  320 |      }
+  [39m
+      at failureErrorWithLog (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m20:01:07[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:324:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:324:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  322 |          roiId = existingRoi.id;
+  323 |          version = existingRoi.version + 1;
+  324 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  325 |        }
+  326 |      }
+  [39m
+[2m20:01:07[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:324:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:324:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  322 |          roiId = existingRoi.id;
+  323 |          version = existingRoi.version + 1;
+  324 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  325 |        }
+  326 |      }
+  [39m
+[2m20:01:07[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:324:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:324:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  322 |          roiId = existingRoi.id;
+  323 |          version = existingRoi.version + 1;
+  324 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  325 |        }
+  326 |      }
+  [39m
+[2m20:01:07[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:324:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:324:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  322 |          roiId = existingRoi.id;
+  323 |          version = existingRoi.version + 1;
+  324 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  325 |        }
+  326 |      }
+  [39m
+[2m20:01:07[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:324:68: ERROR: Cannot use "||" with "??" without parentheses[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:324:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  322 |          roiId = existingRoi.id;
+  323 |          version = existingRoi.version + 1;
+  324 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  325 |        }
+  326 |      }
+  [39m
+      at failureErrorWithLog (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m20:01:15[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:345:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:345:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  343 |          roiId = existingRoi.id;
+  344 |          version = existingRoi.version + 1;
+  345 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  346 |        }
+  347 |      }
+  [39m
+[2m20:01:15[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:345:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:345:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  343 |          roiId = existingRoi.id;
+  344 |          version = existingRoi.version + 1;
+  345 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  346 |        }
+  347 |      }
+  [39m
+[2m20:01:15[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:345:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:345:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  343 |          roiId = existingRoi.id;
+  344 |          version = existingRoi.version + 1;
+  345 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  346 |        }
+  347 |      }
+  [39m
+[2m20:01:15[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:345:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:345:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  343 |          roiId = existingRoi.id;
+  344 |          version = existingRoi.version + 1;
+  345 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  346 |        }
+  347 |      }
+  [39m
+[2m20:01:15[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:345:68: ERROR: Cannot use "||" with "??" without parentheses[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:345:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  343 |          roiId = existingRoi.id;
+  344 |          version = existingRoi.version + 1;
+  345 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  346 |        }
+  347 |      }
+  [39m
+      at failureErrorWithLog (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m20:01:19[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:349:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:349:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  347 |          roiId = existingRoi.id;
+  348 |          version = existingRoi.version + 1;
+  349 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  350 |        }
+  351 |      }
+  [39m
+[2m20:01:19[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:349:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:349:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  347 |          roiId = existingRoi.id;
+  348 |          version = existingRoi.version + 1;
+  349 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  350 |        }
+  351 |      }
+  [39m
+[2m20:01:19[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:349:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:349:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  347 |          roiId = existingRoi.id;
+  348 |          version = existingRoi.version + 1;
+  349 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  350 |        }
+  351 |      }
+  [39m
+[2m20:01:19[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:349:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:349:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  347 |          roiId = existingRoi.id;
+  348 |          version = existingRoi.version + 1;
+  349 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  350 |        }
+  351 |      }
+  [39m
+[2m20:01:19[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:349:68: ERROR: Cannot use "||" with "??" without parentheses[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:349:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  347 |          roiId = existingRoi.id;
+  348 |          version = existingRoi.version + 1;
+  349 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  350 |        }
+  351 |      }
+  [39m
+      at failureErrorWithLog (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m20:01:32[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:01:32[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:01:32[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:01:32[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+      at failureErrorWithLog (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m20:01:32[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:01:41[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:01:41[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:01:41[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:01:41[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:01:41[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+      at failureErrorWithLog (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m20:01:45[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:01:45[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:01:45[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:01:45[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:01:45[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+      at failureErrorWithLog (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m20:02:02[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:02:07[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:02:11[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:02:14[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:02:20[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:04:00[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:04:04[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:04:33[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:05:10[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+[2m20:05:10[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+      at failureErrorWithLog (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m20:05:13[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:350:68: ERROR: Cannot use "||" with "??" without parentheses[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:350:68
+[33m  
+  [33mCannot use "||" with "??" without parentheses[33m
+  348 |          roiId = existingRoi.id;
+  349 |          version = existingRoi.version + 1; // Increment version for geometry modification
+  350 |          existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes || "";
+      |                                                                      ^
+  351 |        }
+  352 |      }
+  [39m
+      at failureErrorWithLog (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m20:05:27[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:352:21: ERROR: Expected ";" but found ":"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:352:21
+[33m  
+  [33mExpected ";" but found ":"[33m
+  350 |              existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes ?? "";
+  351 |        version: version,
+  352 |        scale_px_per_um: pxPerUm,
+      |                       ^
+  353 |        scale_bar: scaleBar,
+  354 |        scale_um: scaleUm,
+  [39m
+[2m20:05:27[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:352:21: ERROR: Expected ";" but found ":"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:352:21
+[33m  
+  [33mExpected ";" but found ":"[33m
+  350 |              existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes ?? "";
+  351 |        version: version,
+  352 |        scale_px_per_um: pxPerUm,
+      |                       ^
+  353 |        scale_bar: scaleBar,
+  354 |        scale_um: scaleUm,
+  [39m
+[2m20:05:27[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:352:21: ERROR: Expected ";" but found ":"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:352:21
+[33m  
+  [33mExpected ";" but found ":"[33m
+  350 |              existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes ?? "";
+  351 |        version: version,
+  352 |        scale_px_per_um: pxPerUm,
+      |                       ^
+  353 |        scale_bar: scaleBar,
+  354 |        scale_um: scaleUm,
+  [39m
+[2m20:05:27[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:352:21: ERROR: Expected ";" but found ":"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:352:21
+[33m  
+  [33mExpected ";" but found ":"[33m
+  350 |              existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes ?? "";
+  351 |        version: version,
+  352 |        scale_px_per_um: pxPerUm,
+      |                       ^
+  353 |        scale_bar: scaleBar,
+  354 |        scale_um: scaleUm,
+  [39m
+[2m20:05:27[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:352:21: ERROR: Expected ";" but found ":"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:352:21
+[33m  
+  [33mExpected ";" but found ":"[33m
+  350 |              existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes ?? "";
+  351 |        version: version,
+  352 |        scale_px_per_um: pxPerUm,
+      |                       ^
+  353 |        scale_bar: scaleBar,
+  354 |        scale_um: scaleUm,
+  [39m
+      at failureErrorWithLog (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m20:05:36[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:352:21: ERROR: Expected ";" but found ":"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:352:21
+[33m  
+  [33mExpected ";" but found ":"[33m
+  350 |              existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes ?? "";
+  351 |        version: version,
+  352 |        scale_px_per_um: pxPerUm,
+      |                       ^
+  353 |        scale_bar: scaleBar,
+  354 |        scale_um: scaleUm,
+  [39m
+      at failureErrorWithLog (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m20:05:38[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:352:21: ERROR: Expected ";" but found ":"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:352:21
+[33m  
+  [33mExpected ";" but found ":"[33m
+  350 |              existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes ?? "";
+  351 |        version: version,
+  352 |        scale_px_per_um: pxPerUm,
+      |                       ^
+  353 |        scale_bar: scaleBar,
+  354 |        scale_um: scaleUm,
+  [39m
+      at failureErrorWithLog (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m20:05:39[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts:352:21: ERROR: Expected ";" but found ":"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/lsalvo/Downloads/pores-feat-pore-roi-analyzer/pores-feat-pore-roi-analyzer-6790294118138700814/frontend/src/stores/useStore.ts[39m:352:21
+[33m  
+  [33mExpected ";" but found ":"[33m
+  350 |              existingNotes = pendingRoiNotes[roiId] ?? existingRoi.notes ?? "";
+  351 |        version: version,
+  352 |        scale_px_per_um: pxPerUm,
+      |                       ^
+  353 |        scale_bar: scaleBar,
+  354 |        scale_um: scaleUm,
+  [39m
+      at failureErrorWithLog (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:1467:15)
+      at C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (C:\Users\lsalvo\Downloads\pores-feat-pore-roi-analyzer\pores-feat-pore-roi-analyzer-6790294118138700814\frontend\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+^C^C

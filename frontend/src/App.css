@@ -1,0 +1,85 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #1e1e1e;
+  color: white;
+}
+
+.toolbar {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  padding: 15px 20px;
+  background-color: #2d2d2d;
+  border-bottom: 1px solid #444;
+  flex-wrap: wrap;
+}
+
+.toolbar-section {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.primary-btn,
+.secondary-btn,
+.active-btn {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.2s;
+}
+
+.primary-btn {
+  background-color: #0066cc;
+  color: white;
+}
+
+.primary-btn:hover {
+  background-color: #0052a3;
+}
+
+.secondary-btn {
+  background-color: #444;
+  color: white;
+}
+
+.secondary-btn:hover {
+  background-color: #555;
+}
+
+.active-btn {
+  background-color: #28a745;
+  color: white;
+}
+
+.active-btn:hover {
+  background-color: #218838;
+}
+
+.folder-path {
+  font-size: 12px;
+  color: #aaa;
+}
+
+.error-message {
+  background-color: #c0392b;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+.main-content {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  align-items: stretch;
+  justify-content: stretch;
+  position: relative;
+}
+

@@ -1,0 +1,52 @@
+
+> frontend@0.0.0 dev
+> vite --port 5175
+
+
+  [32m[1mVITE[22m v7.3.1[39m  [2mready in [0m[1m2116[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5175[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m19:20:12[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ImageViewer.tsx[22m
+[2m19:20:44[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ImageViewer.tsx[22m
+[2m19:30:27[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m19:36:15[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m19:36:31[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m19:37:24[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m19:45:09[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m19:45:14[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m19:45:24[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m20:00:56[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m20:00:59[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m20:01:07[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m20:01:15[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m20:01:19[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m20:01:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m20:01:41[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m20:01:45[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m20:02:02[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ImageViewer.tsx[22m
+[2m20:02:07[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ImageViewer.tsx[22m
+[2m20:02:11[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ImageViewer.tsx[22m
+[2m20:02:14[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ImageViewer.tsx[22m
+[2m20:02:20[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ImageViewer.tsx[22m
+[2m20:02:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ImageViewer.css[22m
+[2m20:03:27[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ImageViewer.css[22m
+[2m20:04:00[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ImageViewer.tsx[22m
+[2m20:04:03[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ImageViewer.tsx[22m
+[2m20:04:33[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ImageViewer.tsx[22m
+[2m20:05:27[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m20:06:09[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m20:09:38[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m20:10:00[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m20:16:20[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m20:16:39[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m20:16:43[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m20:19:26[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ImageViewer.tsx[22m
+[2m20:26:54[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m20:38:19[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m20:38:44[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ImageViewer.tsx[22m
+[2m20:52:23[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/ImageList.tsx, /src/components/Toolbar.tsx, /src/components/ImageViewer.tsx[22m
+[2m20:52:51[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ImageViewer.tsx[22m
+[2m23:29:25[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ImageViewer.tsx[22m
+[2m23:29:41[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ImageViewer.css[22m
+[2m23:29:59[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ImageViewer.css[22m
